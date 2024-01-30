@@ -6,5 +6,6 @@ https://github.com/johnpooh121/FinanceTools 와 같이 연동하는 형태의 �
 
 데이터베이스 유저 관련 설정은 application.properties에서 하면 된다.
 
-쿼리의 디테일은 swagger ui를 참고 (http://localhost:8080/swagger-ui/index.html)
+쿼리의 디테일은 서버 실행 후 swagger ui를 참고
+(http://localhost:8080/swagger-ui/index.html)
 
